@@ -1,0 +1,5 @@
+**pycache**/ \*.pyc \*.pyo \*.pyd
+
+.vscode/ .idea/
+
+\*.log \*.DS_Store
